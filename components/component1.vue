@@ -1,5 +1,5 @@
 <template>
-  <div><h3>this is componrnt 1 rendring from component one in nuxt</h3></div>
+  <div><h3>chnaged this title in the test branch 2 for component 1</h3></div>
 </template>
 
 <script>
