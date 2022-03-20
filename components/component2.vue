@@ -1,6 +1,6 @@
 <template>
   <div>
-    <h3>this is component 2 rendering from component 2 in nuxt</h3>
+    <h3>changed the componet 2 tile in test branch 2</h3>
   </div>
 </template>
 
